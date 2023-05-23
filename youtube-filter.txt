@@ -1,0 +1,11 @@
+! YouTube AdBlock filters
+||youtube.com/get_midroll_info?
+||youtube.com/api/stats/ads?
+||youtube.com/*/ads
+||youtube.com/*/ad_
+||youtube.com/*/advertisement_
+||youtube.com/*/annotations_invideo
+||youtube.com/*/get_video_ads?
+||youtube.com/*/player_ias?
+||youtube.com/*/prebuffer?
+||youtube.com/*/watermark?
